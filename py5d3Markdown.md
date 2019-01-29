@@ -16,6 +16,8 @@ Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/mast
 `Console.WriteLine("Syntax for Console.WriteLine Method in C#")`
 
 >This is the start of the block quote.
+><br>
+></br>
 >"Imagination is more important than knowledge."
 >-Albert Einstein
 
