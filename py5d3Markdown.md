@@ -11,6 +11,8 @@ Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/mast
 [This](http://www.integratedaerospace.com/commercial/systems/digital-systems/img/hero-digital-systems.jpg) is an airport picture that looks digital.
 
 `### Code Block H3 header ### `
+<br>
+</br>
 `Console.WriteLine("Syntax for Console.WriteLine Method in C#")`
 
 >This is the start of the block quote.
