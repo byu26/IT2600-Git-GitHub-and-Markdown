@@ -19,6 +19,8 @@ Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/mast
 ><br>
 ></br>
 >"Imagination is more important than knowledge."
+><br>
+></br>
 >-Albert Einstein
 
 * Bullet 1
