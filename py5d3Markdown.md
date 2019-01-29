@@ -4,6 +4,8 @@
 
 Click [here](https://missouri.edu) to go to Mizzou's website
 
+Click [README](/README.md) for the README
+
 Click [README](https://github.com/byu26/IT2600-Git-GitHub-and-Markdown/blob/master/README.md) for the README
 
 ![Digital Systems](/DigitalSystems.jpg "Digital Systems Picture")
